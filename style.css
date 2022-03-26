@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    #about1 img:hover
+    {
+    
+        content: url("https://images.pexels.com/photos/6194001/pexels-photo-6194001.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+        height: 343px;
+    }
+    #about2 img:hover
+    {
+    
+        content: url("https://images.pexels.com/photos/2851515/pexels-photo-2851515.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+        height: 343px;
+    }
+    #about3 img:hover
+    {
+    
+        content: url("https://images.pexels.com/photos/218480/pexels-photo-218480.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+        height: 343px;
+    }
+    
+    #mysore img:hover
+    {
+        content: url("https://images.pexels.com/photos/4814743/pexels-photo-4814743.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+        height: 650px;
+    }
+    
+    
+    #jog img:hover
+    {
+        content: url("https://images.pexels.com/photos/4819340/pexels-photo-4819340.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    }
+    
+    
+    #church img:hover
+    {
+        content: url("https://images.pexels.com/photos/2220422/pexels-photo-2220422.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    }
+
+     
+
+.gal1 img{
+
+    width: 300px;
+
+    height: 300px;
+
+    margin: 10px;
+
+}
+
+
+
+.gal2 img{
+
+    width: 420px;
+
+    height: 900px;
+
+    margin: 15px;
+
+    margin-top: 50px;
+
+
+   
+
+}
+
+
+.gal3 img{
+
+    width: 300px;
+
+    height: 300px;
+
+    margin: 15px;
+
+}
+
+
+#gallery{
+
+    display: flex;
+
+    justify-content: space-evenly;
+
+}
